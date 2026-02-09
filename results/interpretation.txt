@@ -1,0 +1,12 @@
+Change Point Analysis Summary
+-----------------------------
+Median Change Point Date: 2005-03-02 00:00:00
+Mean Price Before: $21.46
+Mean Price After: $75.90
+Percentage Change: 253.70%
+
+Convergence (R-hat):
+tau      1.02
+mu_1     1.00
+mu_2     1.00
+sigma    1.00
